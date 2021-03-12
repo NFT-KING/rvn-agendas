@@ -15,4 +15,5 @@
 1. Status on P004 (currently an issue here: https://github.com/RavencoinFoundation/ravencoinfoundation.github.io/issues)
 1. A fully flushed docs for ravencoin would be great, started converting the filecoin docs one.  Help is appreciated as there are only so many minutes in the day (https://github.com/corviato1/ravencoin-docs) 
 1. For restricted assets; why are they limited to ten, and can the number be increased for better utilization of the network?
+1. Why on Raven Core 4.3.2.1 that Main Assets, SubAssets, and Restricted Assets are limited to 10 which it should be 21billion?
 1. Add your item here! Send a PR
